@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="50%" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" height="50px"/></a>
+<a href="#"><img width="100%" height="30%" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" height="50px"/></a>
 
 <h1 align="center">Hola <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Ankit Sharma </h1>
 <h3 align="center">I'm a passionate Full Stack Developer from India.</h3>
@@ -35,9 +35,20 @@
 
 <br/>
 
-## 3. 📊 Github Stat
+## 4. 📊 Github Stat
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ankitsharmanoo1&show_icons=true&locale=en&layout=compact" alt="ankitsharmanoo1" /></p>
 <br/>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ankitsharmanoo1&show_icons=true&locale=en" alt="ankitsharmanoo1" /></p>
 <br/>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ankitsharmanoo1&" alt="ankitsharmanoo1" /></p>
+
+
+## 5. ❤ Views and Followers
+<a href="#">
+    <img src="https://komarev.com/ghpvc/?username=ankitsharmanoo1">
+</a>
+<a href="#"><img src="https://img.shields.io/github/followers/ankitsharmanoo1?label=Followers&style=social" alt="GitHub Badge"></a>
+
+
+## 6. ❤ Support:
+<p align="left"><a href="https://www.buymeacoffee.com/ankitsharmanoo1"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ankitsharma" /></a></p><br><br>
